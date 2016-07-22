@@ -1,0 +1,14 @@
+name: MCHNS
+type: theme
+description: Made by MCHNS
+package: Other
+core: 8.x
+libraries:
+  - mchns/global-css
+  - mchns/global-js
+
+base theme: stable
+
+regions:
+  content: Content
+  content: Content
